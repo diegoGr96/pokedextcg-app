@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="logo" width="40%" />
-  
-    <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="logo" width="40%" />
+  <img src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="logo-react" width="40%" />
+  <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="logo-ts" width="40%" />
   
 </p>
 
