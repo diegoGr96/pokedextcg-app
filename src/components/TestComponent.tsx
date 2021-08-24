@@ -1,6 +1,6 @@
 import React from 'react'
 
-interface TestProps{
+type TestProps = {
     id: number;
     name: string;
     active?: boolean;
